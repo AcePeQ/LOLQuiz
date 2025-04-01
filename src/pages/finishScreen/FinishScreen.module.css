@@ -1,0 +1,37 @@
+.main {
+  width: 60rem;
+
+  background-color: rgba(0, 0, 0, 0.15);
+
+  padding: 1.5rem 4rem;
+  border-radius: 6px;
+  backdrop-filter: blur(6px);
+}
+
+.title {
+  text-align: center;
+  font-size: 3.2rem;
+  font-family: inherit;
+
+  margin-bottom: 1.5rem;
+}
+
+.summary {
+  display: flex;
+  justify-content: space-between;
+
+  margin-bottom: 2rem;
+}
+
+.summary p {
+  font-size: 2.2rem;
+  font-family: "Spiegel-Regular";
+}
+
+.details {
+  font-family: "Spiegel-Bold";
+  text-align: center;
+  font-size: 3.2rem;
+
+  margin-bottom: 2rem;
+}

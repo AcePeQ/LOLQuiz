@@ -1,0 +1,122 @@
+{
+  "questions": [
+    {
+      "question": "Which champion is known as The Bounty Hunter ?",
+      "options": ["Renekton", "Miss Fortune", "Sivir", "Gankplank"],
+      "correctOption": 1,
+      "points": 5
+    },
+    {
+      "question": "Who is Sejuani's rival?",
+      "options": ["Ashe", "Taric", "Kayle", "Tryndramere"],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "Runes of Clarity provide what attribute?",
+      "options": [
+        "Mana Regen per 5",
+        "Magic Penetration",
+        "Mana",
+        "Ability Power"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What is Swain's bird named?",
+      "options": ["Aerith", "Betty", "Beatrice", "Johnson"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What champion does not have a hidden passive?",
+      "options": ["Zilean", "Fizz", "Tryndamere", "Diana"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Who is called Fox?",
+      "options": ["Ashe", "Ahri", "Illaoi", "Kindred"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which champion has the passive called 'Equilibrium' ?",
+      "options": ["Vayne", "Teemo", "Tryndamere", "Veigar"],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "question": "What champion is categorized as both a 'support' and a 'pusher'?",
+      "options": ["Nidalee", "Morgana", "Janna", "Illaoi"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "What is Miss Fortune FRIST name?",
+      "options": ["Sarah", "Lisa", "Venna", "Tina"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "What champion does not reside in Freljord?",
+      "options": ["Anivia", "Tryndamere", "Ashe", "Sejuani"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "Miss Fortune doesn't favor....",
+      "options": ["Feelings", "Fools", "Teemo", "Bushes"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "Swain shares three quotes with two other champions, what quote does he share with Garen?",
+      "options": [
+        "Victory awaits!",
+        "My Pleasure",
+        "Ahghhh...",
+        "If you insist"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "Who is related to Katarina?",
+      "options": ["Caitlin", "Renekton", "Zed", "Cassiopeia"],
+      "correctOption": 3,
+      "points": 30
+    },
+    {
+      "question": "What champion is the leader of the group known as the 'Black Rose' ?",
+      "options": ["Talon", "Zyra", "Katarina", "Leblanc"],
+      "correctOption": 3,
+      "points": 30
+    },
+    {
+      "question": "Which champion is known as 'The Deathsinger'?",
+      "options": ["Kassadin", "Nocturne", "Karthus", "Talon"],
+      "correctOption": 2,
+      "points": 40
+    },
+    {
+      "question": "Which company designed Urfrider Corki and Piltover Blitzcrank?",
+      "options": ["BANK", "REEOT", "GANK", "Riot Games"],
+      "correctOption": 2,
+      "points": 40
+    },
+    {
+      "question": "What champion is named after Marc Merrill's wife?",
+      "options": ["Ashe", "Karma", "Tristana", "Diana"],
+      "correctOption": 0,
+      "points": 40
+    },
+    {
+      "question": "Which champion was made for Marc Merrill?",
+      "options": ["Darius", "Tryndamere", "Twisted Fate", "Malzahar"],
+      "correctOption": 1,
+      "points": 40
+    }
+  ]
+}

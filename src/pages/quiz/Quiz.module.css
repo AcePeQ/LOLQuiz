@@ -1,0 +1,20 @@
+.quiz {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 55rem;
+
+  background-color: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(3px);
+
+  padding: 2rem;
+  border-radius: 6px;
+}
+
+.quiz footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 5rem;
+}

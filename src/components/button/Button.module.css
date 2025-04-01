@@ -1,0 +1,43 @@
+.btn {
+  display: inline-block;
+  font-weight: 500;
+  font-size: 2.2rem;
+  font-family: "Spiegel-SemiBold";
+
+  background-color: var(--gold-gradient-1);
+  outline: none;
+  border: none;
+  padding: 1.25rem 2.5rem;
+
+  color: var(--color-gold-1);
+  border-radius: 9px;
+  cursor: pointer;
+
+  transition: all 0.4s;
+}
+
+.btn:hover {
+  background-color: var(--gold-gradient-2);
+}
+
+.start {
+  margin-top: 6rem;
+}
+
+.next {
+  font-size: 2.2rem;
+  border-radius: 6px;
+  width: 12rem;
+  height: 100%;
+}
+
+.finish {
+  font-size: 2.2rem;
+  border-radius: 6px;
+  width: 12rem;
+  height: 100%;
+}
+
+.reset {
+  float: right;
+}

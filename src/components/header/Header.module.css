@@ -1,0 +1,20 @@
+.header {
+  width: 70rem;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin: 4rem 0 8rem 0rem;
+}
+
+.title {
+  font-size: 4.8rem;
+
+  text-align: center;
+  font-family: "BeaufortforLOL-Heavy";
+  line-height: 1.1;
+  background: linear-gradient(var(--color-gold-2), var(--color-gold-3));
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

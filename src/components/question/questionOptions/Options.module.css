@@ -1,0 +1,46 @@
+.options {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  list-style: none;
+  font-size: 2.2rem;
+}
+
+.option {
+  display: block;
+  cursor: pointer;
+  border-radius: 6px;
+  padding: 0.5rem 1rem;
+  background-color: var(--color-gold-4);
+  color: var(--color-gold-1);
+  border: none;
+  outline: none;
+  font-family: inherit;
+  font-weight: inherit;
+  font-size: inherit;
+  text-align: left;
+
+  transition: all 0.4s;
+}
+
+.option[disabled] {
+  cursor: initial;
+}
+
+.option:hover:not([disabled]) {
+  background-color: var(--color-gold-3);
+  color: #fff;
+  transform: translateX(0.4rem);
+}
+
+.answer {
+  transform: translateX(1rem);
+}
+
+.correct {
+  background-color: var(--color-blue-4);
+}
+
+.wrong {
+  background-color: var(--color-gold-5);
+}
